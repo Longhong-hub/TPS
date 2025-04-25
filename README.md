@@ -1,7 +1,5 @@
 ## Download links for related datasets
 
-## BKAI-IGH NeoPolyp-tumor
-
 **BKAI-IGH NeoPolyp-tumor**:(https://pan.baidu.com/s/16zd_kGpHYuwbwPAu0mfxRQ)  
 **Baiduyun**: di4q
 
