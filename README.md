@@ -1,8 +1,12 @@
-# 文件分享
+## Download links for related datasets
 
 ## BKAI-IGH NeoPolyp-tumor
 
-**文件链接**: [点击访问](https://pan.baidu.com/s/16zd_kGpHYuwbwPAu0mfxRQ)  
-**提取码**: di4q
+**BKAI-IGH NeoPolyp-tumor**:(https://pan.baidu.com/s/16zd_kGpHYuwbwPAu0mfxRQ)  
+**Baiduyun**: di4q
 
-*注意：请在下载前确保链接的有效性。*
+**BKAI-IGH-Neopolyp**:https://www.kaggle.com/c/bkai-igh-neopolyp/
+**Kvasir-SEG**:https://datasets.simula.no/kvasir-seg/
+**CVC-ClinicDB**:https://polyp.grand-challenge.org/CVCClinicDB/
+**CVC-ColonDB**:https://www.kaggle.com/datasets/doansang/cvc-colondb
+
