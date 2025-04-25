@@ -1,7 +1,7 @@
 ## Download links for related datasets
 
 **BKAI-IGH NeoPolyp-tumor**:(https://pan.baidu.com/s/16zd_kGpHYuwbwPAu0mfxRQ)  
-**Baiduyun**: di4q
+**Baidu Cloud extraction code**: di4q
 
 **BKAI-IGH-Neopolyp**:https://www.kaggle.com/c/bkai-igh-neopolyp/
 **Kvasir-SEG**:https://datasets.simula.no/kvasir-seg/
